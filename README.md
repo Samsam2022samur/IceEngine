@@ -12,7 +12,7 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 
 
 
-WARNING:Please note that if you wany to play week 4 you will get the test song , to play the right week , you need to go on the chart editor and select Santin Panties, High and Milf Thank you !!! Love y'all
+WARNING:Please note that if you wany to play week 4 you will get the test song , to play the right week , you need to go on the chart editor and select Santin Panties, High and Milf or go to freeplay Thank you !!! Love y'all
 ## Credits:
 * Shadow Mario - Coding
 * RiverOaken - Arts and Animations
